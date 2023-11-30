@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+
 type Message struct {
 	Topic   string
 	Payload interface{}
